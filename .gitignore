@@ -1,0 +1,10 @@
+node_modules/
+.expo/
+dist/
+*.db
+*.db-shm
+*.db-wal
+.env
+!**/.env.example
+docs/qa/
+__pycache__/

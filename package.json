@@ -1,0 +1,4 @@
+{
+  "name": "raiz-plataforma", "version": "1.0.0", "private": true,
+  "scripts": {"backend": "npm --prefix backend start", "mobile": "npm --prefix mobile start", "web": "npm --prefix mobile run web", "test": "npm --prefix backend test", "typecheck": "npm --prefix mobile run typecheck"}
+}
